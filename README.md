@@ -3,7 +3,6 @@
 - 🔭 I’m currently working as Frontend Software Developer.
 - 🌱 I’m currently learning JavaScript, TypeScript, ReactJS e NodeJS.
 - 👩‍🎓 I'm studying information systems
-- ✉ Contact: fitzlaff.emily@gmail.com
 
 ## 
 
